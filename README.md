@@ -164,6 +164,8 @@ Este trecho final recolhe todas as cidades do mapa `stats` em uma slice, ordena-
 {Abha=-35.5/18.0/67.4, Abidjan=-25.4/25.9/76.0, Abéché=-20.9/29.4/78.4, Accra=-23.4/26.3/75.4, Addis Ababa=-34.2/16.0/64.8, Adelaide=-32.3/17.3/68.8...}
 Tempo de execução: 2m43.479635083s
 ```
+
+### Comprovação do Resultado
 ![alt text](image.png)
 
 O resultado acima mostra a saída final com as estatísticas de temperatura para cada estação meteorológica e o tempo de execução do programa.
